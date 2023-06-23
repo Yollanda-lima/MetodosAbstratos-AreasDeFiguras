@@ -1,0 +1,15 @@
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.csproj.AssemblyReference.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.AssemblyInfoInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.AssemblyInfo.cs
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.csproj.CoreCompileInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\bin\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.exe
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\bin\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.deps.json
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\bin\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.runtimeconfig.json
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\bin\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\bin\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\refint\MetodosAbstratos-AreasDeFiguras.dll
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\MetodosAbstratos-AreasDeFiguras.genruntimeconfig.cache
+C:\Users\y.barbosa\Desktop\Curso C#\MetodosAbstratos\MetodosAbstratos-AreasDeFiguras\MetodosAbstratos-AreasDeFiguras\obj\Debug\net6.0\ref\MetodosAbstratos-AreasDeFiguras.dll
